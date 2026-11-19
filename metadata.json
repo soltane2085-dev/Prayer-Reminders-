@@ -1,0 +1,6 @@
+{
+  "name": "Prayer Reminders",
+  "description": "An elegant prayer times reminder app with local notifications, Qibla compass with real-time sensor fusion, and daily spiritually-uplifting quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
